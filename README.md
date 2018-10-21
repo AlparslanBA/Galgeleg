@@ -1,0 +1,2 @@
+# Galgeleg
+Forprojektet til galgeleg
